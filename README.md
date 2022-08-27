@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gattmuilloty
 - 👀 I’m interested in data analytics, machine learning, and AI
-- 🌱 I’m currently learning applied mathematics (BS) and moving towards data science (MS)
+- 🌱 I’m currently learning data science (MS), with an applied mathematics background (BS).
 - 📫 The best way to reach me would be via email: mattguilloty@gmail.com
 
 <!---
